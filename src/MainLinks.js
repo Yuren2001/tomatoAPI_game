@@ -53,7 +53,7 @@ export default function MainLinks() {
         }
         style={{ width: "200px" }}
       >
-        Top Score
+        Leaderboard
       </button>
       <br />
 
